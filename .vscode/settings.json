@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "thieves-hw-db",
+            "connectString": "postgres://pbaktlau:RSN1O7wgoUwG86WENPZIQn8dy1Fa94eF@suleiman.db.elephantsql.com/pbaktlau"
+        }
+    ]
+}
